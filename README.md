@@ -46,3 +46,21 @@ Tracking the progress in different Python scripts.
    
 ## Progress with tensorflow
 
+Tracking the progress in different Python scripts.
+
+### compare_sklearn_tensorflow.ipynb
+ - Input official data of titanic dataset
+ - Cleaning dataset
+ - Plotting variance plots with seaborn
+ - Replacing string sex data with binary data
+ - Calculating linear correlation coeffient
+ - Create new feature *relatives*
+ - Select, split and scale data
+ - Use naiveBayes model *GaussianNB*
+ - Calculate ML metrices
+ - Import tensorflow 3-layer Deep-Dense-Model with ReLu, ReLu and Sigmoid activation functions
+ - Use ADAMS optimizer
+ - Apply Tensorboard
+ - Fit model and print ML metrices
+ - Compare to sklearn results
+   
